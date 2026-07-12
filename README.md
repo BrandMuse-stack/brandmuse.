@@ -1,1 +1,1 @@
-# BrandMuse.
+# brandmuse
